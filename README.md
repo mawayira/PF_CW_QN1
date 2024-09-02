@@ -36,11 +36,10 @@ After compilation, you can run the executable:
 ./atm
 
 File Structure
-`main.cpp`: The main entry point of the ATM system.
-`account.h` / account.cpp: Contains the Account class and its related functions.
-`atm.h / atm.cpp`: Contains the ATM class that manages user interactions and transactions.
-`transaction.h` / transaction.cpp: Contains the Transaction class for managing transaction records.
-README.md: This file.
+- `main.cpp`: The main entry point of the ATM system.
+- `account.h` / account.cpp: Contains the Account class and its related functions.
+- `atm.h / atm.cpp`: Contains the ATM class that manages user interactions and transactions.
+- `transaction.h` / transaction.cpp: Contains the Transaction class for managing transaction records.
 
 #### Usage
 1. Start the ATM system.
