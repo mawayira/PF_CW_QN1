@@ -25,7 +25,7 @@ This project is a simple ATM (Automated Teller Machine) system implemented in C+
    git clone https://github.com/mawayira/PF_CW_QN1.git
 
 2. Navigate to the project directory:
-cd PF_CW_QN1
+- cd PF_CW_QN1
 
 #### Compilation
 Compile the project using a C++ compiler. For example, using gcc:
