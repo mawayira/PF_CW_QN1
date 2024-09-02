@@ -1,4 +1,4 @@
-# ATM System for Banking
+# ATM System for Banking Project 
 
 This project is a simple ATM (Automated Teller Machine) system implemented in C++. The system allows users to perform basic banking operations such as checking balance, withdrawing cash, and depositing cash. 
 
